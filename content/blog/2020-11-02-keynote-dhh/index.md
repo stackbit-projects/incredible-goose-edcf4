@@ -1,6 +1,6 @@
 ---
 title: 'Download Silabus dan RPP SMA Kelas 10,11,12 K13 Lengkap Kemdikbud'
-date: '2020-11-02'
+date: '0202-11-02'
 template: post
 ---
 
